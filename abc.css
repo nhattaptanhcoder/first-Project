@@ -1,0 +1,17 @@
+.box{
+    /* height: 3rem;
+    width: 3rem; */
+    border: 3px solid sandybrown;
+    flex-shrink: 10px;
+}
+.container{
+    height: 20rem;
+    width: 20rem;
+    margin: 100px;
+    background-color: #be11bbf8;
+    display: flex;
+    align-items:flex-start;
+}
+.box1{
+   
+}
